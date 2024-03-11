@@ -1,0 +1,1 @@
+this is my frist HTML website model while learning HTML this is created for my practicing purpose here i used basic tag of htm like headings,paragraph,image,horizontal line,anchor link  and some attributes le icon,href alternative text,src and etc,..
